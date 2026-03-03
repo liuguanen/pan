@@ -1,0 +1,5 @@
+{
+  "name": "xiaoqingmo-proxy",
+  "version": "1.0.0",
+  "main": "worker.js"
+}
