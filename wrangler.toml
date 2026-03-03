@@ -1,4 +1,4 @@
-name = "xiaoqingmo-proxy"
+name = "pan"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 type = "javascript"
